@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CatalinIuga
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning C, C++, Python.
